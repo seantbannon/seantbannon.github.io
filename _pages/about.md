@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Clincial Research Coordinator at Massachusetts General Hospital’s [Cancer Center Protocol Office](https://www.massgeneral.org/cancer-center/clinical-trials-and-research). With a background in Kinesiology and Biology I’ve developed a deep interest in the intersection of physical activity and health, particularly through clinical research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining MGH, I completed my B.S at the [University of Massachusetts Amherst](https://www.umass.edu/) in Kinesiology. My academic and research journey includes honors like the [21st Century Leader Award](https://www.umass.edu/news/article/10-umass-amherst-undergraduates-be-honored-21st-century-leaders-commencement-2024), and the [Rising Researcher Award](https://www.umass.edu/gateway/research/stories/rising-researchers/health-effects-smoking). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond my research career, I am passionate about endurance sports and raising awareness for the importance of physical activity in preventing disease. In 2024, I completed a solo swim across the [English Channel](https://www.umass.edu/public-health-sciences/news/sean-bannon-swims-english-channel). Currently, I’m training to complete the Triple Crown of open water swimming by 2025 with much more to come... 
