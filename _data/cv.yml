@@ -11,22 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: BS
+    - title: B.S. <em>honors with highest distinction</em>, in Kinesiology
       institution: University of Massachusetts Amherst, Amherst, MA, USA
-      year: 1905
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - <strong>GPA:</strong> 3.9/4.0
+        - <strong>Honor's Thesis:</strong> “Role of MitoTempo in attenuating mitochondrial dysfunction in fast-twitch skeletal muscle induced by cigarette smoke”
 
 - title: Experience
   type: time_table
