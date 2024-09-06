@@ -7,3 +7,31 @@
 
 "Vision":
   color: "#009f36"
+
+"iovs":
+  url: https://iovs.arvojournals.org/
+  color: "#006dda"
+
+"Am. J. Physiol.":
+  url: https://journals.physiology.org/journal/physiologyonline
+  color:
+
+"Curr. Dev. Nutr.":
+  url: https://cdn.nutrition.org/
+  color: "#ffeb23"
+
+"Exp. Eye Res.":
+  url: https://www.sciencedirect.com/journal/experimental-eye-research
+  color:
+
+"AJP. Heart Circ. Phys.":
+  url: https://journals.physiology.org/journal/ajpheart
+  color:
+
+"Life Sci.":
+  url: https://www.sciencedirect.com/journal/life-sciences
+  color:
+
+"Free Radic. Biol. Med.":
+  url: https://www.sciencedirect.com/journal/free-radical-biology-and-medicine
+  color: "#36f0ff"
