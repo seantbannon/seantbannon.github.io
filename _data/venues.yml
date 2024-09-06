@@ -18,7 +18,7 @@
 
 "Curr. Dev. Nutr.":
   url: https://cdn.nutrition.org/
-  color: "#ffeb23"
+  color: "#c9b702"
 
 "Exp. Eye Res.":
   url: https://www.sciencedirect.com/journal/experimental-eye-research
@@ -30,8 +30,8 @@
 
 "Life Sci.":
   url: https://www.sciencedirect.com/journal/life-sciences
-  color:
+  color: "#c73401"
 
 "Free Radic. Biol. Med.":
   url: https://www.sciencedirect.com/journal/free-radical-biology-and-medicine
-  color: "#36f0ff"
+  color: "#0170c7"
