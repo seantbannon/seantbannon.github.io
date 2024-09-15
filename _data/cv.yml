@@ -25,6 +25,8 @@
         - 21st Century Leader Award
         - School of Public Health & Health Sciences (SPHHS) Senior Leadership Award
         - SPHHS Commencement Speaker
+        - SPHHS Research Day - 1st Place
+        - Honors Dean's Award
     - year: 2029
       items:
         - Max Planck Medal
@@ -32,54 +34,65 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Undergraduate Researcher @ Chung Laboratory
-      institution: Department of Nutrition, University of Massachusetts Amherst
+    - title: Chung Laboratory
+    - title: <em>Undergraduate Researcher</em>
+      department: Department of Nutrition, University of Massachusetts Amherst
       year: 2023 - 2024
       description:
         - Description 1.
         - Description 2.
        
     - title: Undergraduate Research Fellow @ Biomaterials & Regenerative Medicine Laboratory
-      institution: Mayo Clinic
+      department: Mayo Clinic
       year: 2023
       description:
         - Description 1.
         - Description 2.
     
     - title: Undergraduate Researcher @ Oxygen & Metabolism Laboratory
-      institution: Institute for Applied Life Sciences, University of Massachusetts Amherst
+      department: Institute for Applied Life Sciences, University of Massachusetts Amherst
       year: 2021 - 2023
       description:
         - Description 1.
         - Description 2.
 
     - title: Undergraduate Researcher @ Jurkunas Laboratory
-      institution: Massachusetts Eye & Ear, Harvard Medical School
+      department: Massachusetts Eye & Ear, Harvard Medical School
       year: 2022
       description:
         - Description 1.
         - Description 2.
 
 
-- title: Open Source Projects
+- title: Clinical Experience
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Academic Interests
+- title: Community Leadership Experiences
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Service
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Ad Hoc Reviewer
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - <em>American Journal of Physiology, Cell Physiology</em>
+        - <em>Experimental Eye Research</em> 
+        - <em>Journal of Life Sciences</em>
 
 - title: Other Interests
   type: list
