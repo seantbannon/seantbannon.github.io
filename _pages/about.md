@@ -13,9 +13,9 @@ profile:
     <p>55 Fruit St.</p>
     <p>Boston, MA 02114</p>
 
-# news: true # includes a list of news items
+ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I'm a Clincial Research Coordinator at Massachusetts General Hospital’s [Cancer Center Protocol Office](https://www.massgeneral.org/cancer-center/clinical-trials-and-research). With a background in Kinesiology and Biology I’ve developed a deep interest in the intersection of physical activity and health, particularly through clinical research.
