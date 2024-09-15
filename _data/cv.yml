@@ -34,28 +34,28 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: [Chung Laboratory](https://www.umass.edu/public-health-sciences/about/directory/soonkyu-chung), Undergraduate Researcher
+    - title: Chung Lab, Undergraduate Researcher
       institution: Department of Nutrition, University of Massachusetts Amherst
       year: 2023 - 2024
       description:
         - Description 1.
         - Description 2.
        
-    - title: Undergraduate Research Fellow @ Biomaterials & Regenerative Medicine Laboratory
+    - title: Biomaterials & Regenerative Medicine Lab, Undergraduate Research Fellow 
       institution: Mayo Clinic
       year: 2023
       description:
         - Description 1.
         - Description 2.
     
-    - title: Undergraduate Researcher @ Oxygen & Metabolism Laboratory
+    - title: Oxygen & Metabolism Laboratory, Undergraduate Researcher
       institution: Institute for Applied Life Sciences, University of Massachusetts Amherst
       year: 2021 - 2023
       description:
         - Description 1.
         - Description 2.
 
-    - title: Undergraduate Researcher @ Jurkunas Laboratory
+    - title: Jurkunas Laboratory, Undergraduate Researcher
       institution: Massachusetts Eye & Ear, Harvard Medical School
       year: 2022
       description:
@@ -66,23 +66,32 @@
 - title: Clinical Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Clinical Research Coordinator
+      institution: Mass General Hospital, Cancer Center
+      year: 2023 - 2024
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Kin. 355, Teaching Assistant
+      institution: Department of Kinesiology, University of Massachusetts Amherst
+      year: 2023 - 2024
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Community Leadership Experiences
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Chung Lab, Undergraduate Researcher
+      institution: Department of Nutrition, University of Massachusetts Amherst
+      year: 2023 - 2024
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Service
   type: nested_list
